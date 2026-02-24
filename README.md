@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f3460&height=200&section=header&text=Gabriele%20La%20Barbera&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Tecnico%20Informatico%20%26%20Sistemista&descAlignY=55&descSize=20&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f3460&height=200&section=header&text=Gabriele%20La%20Barbera&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Tecnico%20Informatico%20%7C%20Sistemista&descAlignY=55&descSize=20&descColor=8b949e" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -138,12 +138,6 @@ fun_fact: "Amo mettermi sempre alla prova con nuove sfide. ♟"
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gbr-lab&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -165,10 +159,10 @@ fun_fact: "Amo mettermi sempre alla prova con nuove sfide. ♟"
 ## 🌱 Roadmap di Apprendimento
 
 ```
-2024 ████████████████████ Diploma ITIS ✅
-2025 ████████████░░░░░░░░ AWS/Azure Cloud ⏳
-2025 ████████░░░░░░░░░░░░ Docker & K8s    ⏳  
-2025 ██████░░░░░░░░░░░░░░ ML + Security   ⏳
+2025 ████████████████████ Diploma ITIS ✅
+2025 ████████████░░░░░░░░ Docker & K8s    ⏳
+2026 ████████░░░░░░░░░░░░ AWS/Azure Cloud ⏳  
+2026 ██████░░░░░░░░░░░░░░ ML + Security   ⏳
 ```
 
 ---
@@ -194,3 +188,4 @@ fun_fact: "Amo mettermi sempre alla prova con nuove sfide. ♟"
 *"It’s not a bug, it’s a feature."*
 
 </div>
+
