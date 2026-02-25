@@ -152,8 +152,6 @@ fun_fact: "Amo mettermi sempre alla prova con nuove sfide. ♟"
 
 </div>
 
-> ⚙️ Per abilitare la snake animation, crea il workflow GitHub Actions: `.github/workflows/snake.yml` (vedi istruzioni sotto)
-
 ---
 
 ## 🌱 Roadmap di Apprendimento
