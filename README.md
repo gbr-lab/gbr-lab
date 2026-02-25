@@ -172,7 +172,7 @@ fun_fact: "Amo mettermi sempre alla prova con nuove sfide. ♟"
 [![Email](https://img.shields.io/badge/Email-gbrlb27%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbrlb27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriele-la-barbera-174a76387)
 [![GitHub](https://img.shields.io/badge/GitHub-gbr--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gbr-lab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tuo-sito-web.it)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gabrielelabarbera.vercel.app/)
 
 </div>
 
